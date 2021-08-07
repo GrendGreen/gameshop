@@ -1,0 +1,56 @@
+body { 
+    background-image: url(img/dark-wood.png);
+   }
+
+
+  .logo {
+ 	color: aqua;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 13px;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+
+
+
+ mark { 
+    background-color: red;
+   }
+
+
+   .info { 
+   	      margin-top: 60px;
+          font-size: 20px;
+           font-family: 'Open Sans', sans-serif;
+      }
+
+
+
+      
+
+           .topnav {
+            overflow: hidden;
+            
+        }
+
+
+        .topnav a {
+            float: right;
+            color: white;
+            text-align: left;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 15px;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+
+        .topnav a:hover {
+            text-decoration: underline;
+        }
+
+
+        .topnav a.active {    
+            color: black;
+        }
+
